@@ -4,7 +4,7 @@ Hotel Sri Sai Krishna is a Flutter-based mobile application for managing hotel o
 
 ## Download 
 
-![Download APK](https://github.com/Bhanuprakash9973/Hotel-Sri-Sai-Krishna/releases/download/hssk/HotelSriSaiKrishna.apk)
+[Download APK](https://github.com/Bhanuprakash9973/Hotel-Sri-Sai-Krishna/releases/download/hssk/HotelSriSaiKrishna.apk)
 
 ## Features
 
