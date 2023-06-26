@@ -2,14 +2,31 @@
 
 It is a Flutter application for **Hotel Sri Sai Krishna** which contains the menu of the hotel and allows users to calculate and generate receipts for their orders. It provides a user-friendly interface for selecting menu items, adjusting quantities, and generating a receipt to share. It also provides details about the hotel and allows users to place online orders.
 
-## Functionality
+## Features
 
-The app has the following key features:
+- User authentication with Firebase Authentication.
+- Firestore database integration for storing user details and other data.
+- Role-based access control for different app features.
+- Various pages for different functionalities:
+  - Login and signup pages for user authentication.
+  - Home page with different sections based on the user's role.
+  - Calculator page for performing calculations.
+  - Profile page for displaying user information.
+  - About page for providing information about the app.
+  - Menu page for displaying the hotel's menu.
+  - People page for managing hotel staff and guests.
+  - Map page for displaying the hotel's location.
+  - Order page for placing orders.
+  - Admin home page for admin-specific functionalities.
+  - User home page for regular user functionalities.
+  - Logout page for logging out the user.
 
-1. **Menu Items**: The `menuitemcard.dart` file defines a reusable widget for displaying a menu item with its name, price, and quantity controls.
-2. **Calculator Page**: The `calculator_page.dart` file implements the main calculator functionality. It allows users to add and subtract quantities of menu items and calculates the total price dynamically.
-3. **Main Page**: The `main.dart` file serves as the entry point of the app and configures the routes for different pages. It includes a home page and a calculator page accessible from a sidebar.
-4. **About Page**: The `home.dart` file defines the widget to provide my details and also allows you to open and explore my portfolio.
+## Prerequisites
+
+- Flutter SDK: Make sure you have Flutter SDK installed on your machine.
+- Firebase Account: Create a Firebase account and set up a new project.
+- Add Firebase Configuration: Replace the placeholder Firebase configuration values in the code with your own Firebase project credentials.
+
 
 ## How to Use
 
@@ -17,6 +34,14 @@ The app has the following key features:
 2. Install Flutter and Dart SDKs.
 3. Open the project in your preferred IDE.
 4. Run the app using a simulator or physical device.
+
+## Usage
+
+1. Build and run the app on an emulator or physical device using the Flutter SDK.
+2. The app will start on the login page by default.
+3. Use the provided login and signup pages to authenticate as a user.
+4. Based on the user's role, they will be directed to the corresponding home page (admin or regular user).
+5. Navigate through the different pages and utilize the app's functionalities as per your requirements.
 
 ## Contributing
 
