@@ -1,6 +1,6 @@
 # Hotel Sri Sai Krishna's App
 
-It is a Flutter application for **Hotel Sri Sai Krishna** which contains the menu of the hotel and allows users to calculate and generate receipts for their orders. It provides a user-friendly interface for selecting menu items, adjusting quantities, and generating a receipt to share. It also provides details about the hotel and allows users to place online orders.
+Hotel Sri Sai Krishna is a Flutter-based mobile application for managing hotel operations and user interactions. The app utilizes Firebase services for authentication, data storage, and database management. It provides different functionalities based on the user's role, such as admin or regular user.
 
 ## Features
 
