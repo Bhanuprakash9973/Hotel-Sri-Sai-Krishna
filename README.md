@@ -2,6 +2,10 @@
 
 Hotel Sri Sai Krishna is a Flutter-based mobile application for managing hotel operations and user interactions. The app utilizes Firebase services for authentication, data storage, and database management. It provides different functionalities based on the user's role, such as admin or regular user.
 
+## Download 
+
+![Download APK](https://github.com/Bhanuprakash9973/Hotel-Sri-Sai-Krishna/releases/download/hssk/HotelSriSaiKrishna.apk)
+
 ## Features
 
 - User authentication with Firebase Authentication.
@@ -22,18 +26,6 @@ Hotel Sri Sai Krishna is a Flutter-based mobile application for managing hotel o
   - Logout page for logging out the user.
 
 ## Screenshots
-
-<!-- ![Screenshot 1](screenshots/Screenshot_2023-06-26-18-09-31-64_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 2](screenshots/Screenshot_2023-06-26-18-43-32-70_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 3](screenshots/Screenshot_2023-06-26-18-43-34-85_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 4](screenshots/Screenshot_2023-06-26-18-43-38-09_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 5](screenshots/Screenshot_2023-06-26-18-43-41-64_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 6](screenshots/Screenshot_2023-06-26-18-43-47-15_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 7](screenshots/Screenshot_2023-06-26-18-43-55-38_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 8](screenshots/Screenshot_2023-06-26-18-43-59-00_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 9](screenshots/Screenshot_2023-06-26-18-44-02-12_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 10](screenshots/Screenshot_2023-06-26-18-44-12-03_805b73677197c22b4b29fce74c27d14a.jpg)
-![Screenshot 11](screenshots/Screenshot_2023-06-26-18-44-29-96_805b73677197c22b4b29fce74c27d14a.jpg) -->
 
 <img src="screenshots/Screenshot_2023-06-26-18-09-31-64_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 1" width="200"> &ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-32-70_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 2" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-34-85_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 3" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-38-09_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 4" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-41-64_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 5" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-47-15_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 6" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-55-38_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 7" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-43-59-00_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 8" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-44-02-12_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 9" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-44-12-03_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 10" width="200">&ensp;<img src="screenshots/Screenshot_2023-06-26-18-44-29-96_805b73677197c22b4b29fce74c27d14a.jpg" alt="Screenshot 11" width="200">
 
